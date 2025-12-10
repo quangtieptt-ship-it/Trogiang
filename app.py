@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Đào Quang Tiêp - Trường Tiểu học Cấp Tiến - ĐT: 098 5220 647</p>
+    <p>Tác giả: Trường TH: Cấp Tiến, Đông lợi, Phúc Ứng, TH và THCS Chi Thiết</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -347,4 +347,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Đào Quang Tiêp - Trường Tiểu học Cấp Tiến - ĐT: 098 5220 647</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Trường TH: Cấp Tiến, Đông lợi, Phúc Ứng, TH và THCS Chi Thiết</div>", unsafe_allow_html=True)
